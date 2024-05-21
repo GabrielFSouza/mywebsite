@@ -18,7 +18,7 @@ hoverChangeExperience(
 
 hoverChangeExperience(
   ".bellinati",
-  `Desenvolvimento de aplicativos
+  `Desenvolvimento de aplicações
   e manutenção para recuperação
   de crédito para as principais
   instituições financeiras do
