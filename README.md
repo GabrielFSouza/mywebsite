@@ -4,7 +4,7 @@
 
 ![Resultado final do projeto](assets/image/preview.png)
 
-<h4 align="center"><a href="adicionarlink">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="gabirudev.com">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 
