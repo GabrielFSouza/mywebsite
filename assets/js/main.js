@@ -10,7 +10,10 @@ typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
   ".stone",
-  `Trabalhei no produto de desenvolvimento de melhorias e sustenação para o sistema de saúde visando a gestão de clínicas e consultórios.`,
+  `              Desenvolvimento de melhorias e sustentação para o sistema de saúde visando a gestão de
+              clínicas e consultórios. Revisar e dar suporte a outros desenvolvedores no desenho e proposta de
+              soluções técnicas para o sistema de gestão, atuando na linha de frente, diante de incidentes e 
+              melhorias da empresa.`,
   "Desenvolvedor Pleno (Remoto)",
   "Stone",
   "Nov 2023 - Maio 2024 | São Paulo-SP, Brasil"
@@ -18,11 +21,25 @@ hoverChangeExperience(
 
 hoverChangeExperience(
   ".bellinati",
-  `Desenvolvimento de aplicações
-  e manutenção para recuperação
-  de crédito para as principais
-  instituições financeiras do
-  Brasil.`,
+  `Desenvolvimento de
+aplicativos e manutenção
+para recuperação de crédito
+para as principais
+instituições financeiras do
+Brasil. Revisar e dar
+suporte a outros
+desenvolvedores no desenho e
+proposta de soluções
+técnicas para
+microsserviços, api,
+forms(MVC), atuando na linha
+de frente, diante de
+incidentes da empresa.
+Trabalhei atendendo as
+instituições financeiras
+como: BV, C6, Nubank, Itaú,
+Bradesco e Santander.
+`,
   "Desenvolvedor Pleno (Remoto)",
   "Bellinati Perez",
   "Dez 2022 - Junho 2023 | Curitiba-PR, Brasil"
@@ -30,10 +47,14 @@ hoverChangeExperience(
 
 hoverChangeExperience(
   ".adaptive",
-  `Trabalhei com sistemas de
-  ERP para Postos de
-  Combustível, Conveniência e Supermercado para
-  o varejo`,
+  `Trabalhando com Sistema de TI
+para Postos de Gasolina e
+Conveniência para
+o varejo
+Desenvolvedor Júnior e Techlead
+nível 2 da equipe de suporte,
+aplicando soluções às demandas
+de ambos os setores.`,
   "Desenvolvedor Júnior (Híbrido)",
   "Adaptive",
   "Jan 2020 - Out 2021 | Uberlândia-MG, Brasil"
@@ -52,17 +73,25 @@ hoverChangeExperience(
 
 hoverChangeExperience(
   ".paschoalotto",
-  `Desenvolvimento de aplicações e
-  manutenção para recuperação de
-  crédito
-  para o principal financeiro
-  instituições no Brasil.
-  Desenvolvedor nível 4 na esteira, trabalhando
-  nas manutenções, correções e
-  aplicação de melhorias
-  sistêmicas.
-  microserviços, API e
-  formulários (Desktop).`,
+  `Desenvolvimento de
+aplicativos e manutenção
+para recuperação de crédito
+para as principais
+instituições financeiras do
+Brasil. Revisar e dar
+suporte a outros
+desenvolvedores no desenho e
+proposta de soluções
+técnicas para
+microsserviços, api,
+forms(MVC), atuando na linha
+de frente, diante de
+incidentes da empresa.
+Trabalhei atendendo as
+instituições financeiras
+como: BV, C6, Nubank, Itaú,
+Bradesco, Santander, Sicoob, Next e etc.
+`,
   "Desenvolvedor Pleno (Remoto)",
   "Paschoalotto",
   " Dez 2021 - Nov 2022 | Bauru-SP, Brasil"
@@ -113,6 +142,6 @@ hoverChangeDescription(
   "PostgreSQL é um sistema gerenciador de banco de dados objeto-relacional baseado no POSTGRES."
 );
 hoverChangeDescription(
-  ".storybook",
+  ".csharp",
   "Storybook é uma ferramenta que tem como objetivo documentar e testar os componentes da aplicação."
 );
