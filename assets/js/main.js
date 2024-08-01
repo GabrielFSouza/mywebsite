@@ -93,24 +93,24 @@ hoverChangeDescription(
   "Next.js é uma estrutura da web que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para web baseados em React."
 );
 hoverChangeDescription(
-  ".styled",
-  "styled-components é uma biblioteca que utiliza o conceito de CSS-in-JS, ou seja, que nos permite escrever códigos CSS dentro do Javascript."
+  ".angular",
+  "Angular é um framework de código aberto desenvolvido pelo Google para a criação de aplicativos dinâmicos e interativos da web. "
 );
 hoverChangeDescription(
-  ".tailwind",
-  "Tailwind CSS é um framework CSS que nos fornece classes utilitárias com o propósito de estilizar as páginas."
+  ".net",
+  ".NET é uma plataforma de desenvolvedor composta por tools, programação de linguagens e bibliotecas para criar muitos tipos diferentes de aplicativos."
 );
 hoverChangeDescription(
   ".typescript",
   "TypeScript é um superset do JavaScript que incluir recursos que não estão presentes na linguagem de forma nativa, além de torná-la estática."
 );
 hoverChangeDescription(
-  ".radix",
-  "Radix é uma biblioteca que fornece componentes acessíveis e sem estilos para a criação de aplicação em React."
+  ".sql",
+  "O SQL Server é um gerenciador de bancos de dados relacional, o que significa dizer que as informações que manipula estão armazenadas em campos de tabelas."
 );
 hoverChangeDescription(
-  ".cypress",
-  "Cypress é um framework para automação de testes end-to-end, onde atualmente usa a linguagem JavaScript."
+  ".postgres",
+  "PostgreSQL é um sistema gerenciador de banco de dados objeto-relacional baseado no POSTGRES."
 );
 hoverChangeDescription(
   ".storybook",
